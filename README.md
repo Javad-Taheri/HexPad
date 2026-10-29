@@ -5,7 +5,7 @@ View and edit files in binary (hexadecimal) format. Supports labeling and compar
 Download the latest version from the [Releases](https://github.com/Javad-Taheri/HexPad/releases/latest) section.
 
 ### System Requirements
-Windows Vista or later
+Windows Vista or later.
 
 ### License
 HexPad is free to use.
